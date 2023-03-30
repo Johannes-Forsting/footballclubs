@@ -1,5 +1,6 @@
 -----------------------------------------------------------------------------
 
+Round: 1
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     RFC   Randers Football Club       1   1   0   0   3   0   3   3   W  
@@ -17,6 +18,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 2
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     BIF   Broendby Idraetsforening    2   2   0   0   5   3   2   6   WW 
@@ -34,6 +36,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 3
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     BIF   Broendby Idraetsforening    3   3   0   0   7   4   3   9   WWW
@@ -51,6 +54,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 4
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     BIF   Broendby Idraetsforening    4   4   0   0   9   5   4   12  WWWW
@@ -68,6 +72,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 5
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     BIF   Broendby Idraetsforening    5   4   0   1   9   7   2   12  WWWWL
@@ -85,6 +90,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 6
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     VB    Vejle Baoldklub             6   4   1   1   15  10  5   13  WDWWW
@@ -102,6 +108,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 7
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     S     Soenderjyske                7   4   2   1   13  9   4   14  WDWWD
@@ -119,6 +126,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 8
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     S     Soenderjyske                8   5   2   1   16  9   7   17  DWWDW
@@ -136,6 +144,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 9
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     FCM   Football Club Midtjylland   9   6   1   2   17  12  5   19  WWLWW
@@ -153,6 +162,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 10
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     BIF   Broendby Idraetsforening    10  7   0   3   21  14  7   21  LLWWW
@@ -170,6 +180,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 11
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     FCM   Football Club Midtjylland   11  7   2   2   19  12  7   23  LWWDW
@@ -187,6 +198,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 12
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     FCM   Football Club Midtjylland   12  7   3   2   20  13  7   24  WWDWD
@@ -204,6 +216,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 13
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     FCM   Football Club Midtjylland   13  8   3   2   23  14  9   27  WDWDW
@@ -221,6 +234,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 14
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     BIF   Broendby Idraetsforening    14  10  0   4   27  19  8   30  WLWWW
@@ -238,6 +252,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 15
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     BIF   Broendby Idraetsforening    15  10  1   4   28  20  8   31  LWWWD
@@ -255,6 +270,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 16
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     BIF   Broendby Idraetsforening    16  11  1   4   32  20  12  34  WWWDW
@@ -272,6 +288,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 17
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     BIF   Broendby Idraetsforening    17  12  1   4   34  21  13  37  WWDWW
@@ -289,6 +306,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 18
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     FCM   Football Club Midtjylland   18  12  3   3   30  17  13  39  LWWWW
@@ -306,6 +324,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 19
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     FCM   Football Club Midtjylland   19  12  3   4   30  19  11  39  WWWWL
@@ -323,6 +342,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 20
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     BIF   Broendby Idraetsforening    20  13  2   5   36  23  13  41  WWLDW
@@ -340,6 +360,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 21
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     BIF   Broendby Idraetsforening    21  14  2   5   39  23  16  44  WLDWW
@@ -357,6 +378,7 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 -----------------------------------------------------------------------------
 
+Round: 22
 Name: 3F Superliga
 Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 1     BIF   Broendby Idraetsforening    22  14  3   5   40  24  16  45  LDWWD
@@ -374,81 +396,211 @@ Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
 
 ------------------------------------------------------------
 
+Round: 23
 Name: mesterskabsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
+1     FCM   Football Club Midtjylland   23  14  4   5   36  20  16  46  LLDWW
+2     BIF   Broendby Idraetsforening    23  14  3   6   40  25  15  45  DWWDL
+3     AGF   Aarhus gymnastikforening    23  10  8   5   35  24  11  38  LWDDL
+4     FCK   Football Club Koebenhavn    23  11  5   7   41  36  5   38  WLDLW
+5     RFC   Randers Football Club       23  9   5   9   32  23  9   32  DLDWL
+6     FCN   Football Club Nordsjaelland 23  8   8   7   37  30  7   32  WDWWW
 
 Name: Kvalifikationsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name             G   W   D   L   G+  G-  GD  P   Streak
+1     AAB   Aalborg Boldklub      23  8   7   8   27  32  -5  31  LWWLW
+2     OB    Odense Boldklub       23  7   8   8   26  29  -3  29  DLLWD
+3     S     Soenderjyske          23  8   4   11  32  35  -3  28  DLWLL
+4     VB    Vejle Baoldklub       23  6   7   10  25  37  -12 25  LWLLD
+5     L     Lyngby Boldklub       23  5   6   12  25  43  -18 21  WWLWD
+6     ACH   Alliance Club Horsens 23  2   7   14  16  38  -22 13  WDLLD
 
 ------------------------------------------------------------
 
+Round: 24
 Name: mesterskabsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
+1     FCM   Football Club Midtjylland   24  15  4   5   40  21  19  49  LDWWW
+2     BIF   Broendby Idraetsforening    24  14  3   7   41  28  13  45  WWDLL
+3     FCK   Football Club Koebenhavn    24  12  5   7   44  37  7   41  LDLWW
+4     AGF   Aarhus gymnastikforening    24  10  8   6   36  28  8   38  WDDLL
+5     FCN   Football Club Nordsjaelland 24  9   8   7   41  33  8   35  DWWWW
+6     RFC   Randers Football Club       24  9   5   10  35  27  8   32  LDWLL
 
 Name: Kvalifikationsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name             G   W   D   L   G+  G-  GD  P   Streak
+1     AAB   Aalborg Boldklub      24  8   8   8   29  34  -5  32  WWLWD
+2     OB    Odense Boldklub       24  7   8   9   26  30  -4  29  LLWDL
+3     S     Soenderjyske          24  8   4   12  34  38  -4  28  LWLLL
+4     VB    Vejle Baoldklub       24  7   7   10  26  37  -11 28  WLLDW
+5     L     Lyngby Boldklub       24  5   7   12  27  45  -18 22  WLWDD
+6     ACH   Alliance Club Horsens 24  3   7   14  19  40  -21 16  DLLDW
 
 ------------------------------------------------------------
 
+Round: 25
 Name: mesterskabsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
+1     FCM   Football Club Midtjylland   25  15  5   5   40  21  19  50  DWWWD
+2     BIF   Broendby Idraetsforening    25  14  4   7   43  30  13  46  WDLLD
+3     FCK   Football Club Koebenhavn    25  12  6   7   46  39  7   42  DLWWD
+4     AGF   Aarhus gymnastikforening    25  10  9   6   38  30  8   39  DDLLD
+5     FCN   Football Club Nordsjaelland 25  9   9   7   43  35  8   36  WWWWD
+6     RFC   Randers Football Club       25  9   6   10  35  27  8   33  DWLLD
 
 Name: Kvalifikationsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name             G   W   D   L   G+  G-  GD  P   Streak
+1     AAB   Aalborg Boldklub      25  8   9   8   30  35  -5  33  WLWDD
+2     OB    Odense Boldklub       25  7   9   9   27  31  -4  30  LWDLD
+3     S     Soenderjyske          25  8   5   12  35  39  -4  29  WLLLD
+4     VB    Vejle Baoldklub       25  7   8   10  27  38  -11 29  LLDWD
+5     L     Lyngby Boldklub       25  6   7   12  30  46  -16 25  LWDDW
+6     ACH   Alliance Club Horsens 25  3   7   15  20  43  -23 16  LLDWL
 
 ------------------------------------------------------------
 
+Round: 26
 Name: mesterskabsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
+1     FCM   Football Club Midtjylland   26  16  5   5   44  22  22  53  WWWDW
+2     BIF   Broendby Idraetsforening    26  15  4   7   46  30  16  49  DLLDW
+3     AGF   Aarhus gymnastikforening    26  11  9   6   40  30  10  42  DLLDW
+4     FCK   Football Club Koebenhavn    26  12  6   8   47  43  4   42  LWWDL
+5     FCN   Football Club Nordsjaelland 26  9   9   8   43  38  5   36  WWWDL
+6     RFC   Randers Football Club       26  9   6   11  35  29  6   33  WLLDL
 
 Name: Kvalifikationsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name             G   W   D   L   G+  G-  GD  P   Streak
+1     AAB   Aalborg Boldklub      26  9   9   8   33  37  -4  36  LWDDW
+2     S     Soenderjyske          26  9   5   12  36  39  -3  32  LLLDW
+3     VB    Vejle Baoldklub       26  8   8   10  30  38  -8  32  LDWDW
+4     OB    Odense Boldklub       26  7   9   10  29  34  -5  30  WDLDL
+5     L     Lyngby Boldklub       26  6   7   13  30  47  -17 25  WDDWL
+6     ACH   Alliance Club Horsens 26  3   7   16  20  46  -26 16  LDWLL
 
 ------------------------------------------------------------
 
+Round: 27
 Name: mesterskabsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
+1     FCM   Football Club Midtjylland   27  16  5   6   46  25  21  53  WWDWL
+2     BIF   Broendby Idraetsforening    27  16  4   7   48  30  18  52  LLDWW
+3     FCK   Football Club Koebenhavn    27  13  6   8   49  44  5   45  WWDLW
+4     AGF   Aarhus gymnastikforening    27  11  9   7   41  32  9   42  LLDWL
+5     FCN   Football Club Nordsjaelland 27  10  9   8   46  40  6   39  WWDLW
+6     RFC   Randers Football Club       27  9   6   12  35  31  4   33  LLDLL
 
 Name: Kvalifikationsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name             G   W   D   L   G+  G-  GD  P   Streak
+1     AAB   Aalborg Boldklub      27  9   9   9   33  38  -5  36  WDDWL
+2     S     Soenderjyske          27  10  5   12  37  39  -2  35  LLDWW
+3     OB    Odense Boldklub       27  8   9   10  31  34  -3  33  DLDLW
+4     VB    Vejle Baoldklub       27  8   8   11  30  39  -9  32  DWDWL
+5     L     Lyngby Boldklub       27  6   7   14  30  49  -19 25  DDWLL
+6     ACH   Alliance Club Horsens 27  4   7   16  21  46  -25 19  DWLLW
 
 ------------------------------------------------------------
 
+Round: 28
 Name: mesterskabsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
+1     FCM   Football Club Midtjylland   28  17  5   6   49  25  24  56  WDWLW
+2     BIF   Broendby Idraetsforening    28  16  4   8   50  34  16  52  LDWWL
+3     FCK   Football Club Koebenhavn    28  14  6   8   52  46  6   48  WDLWW
+4     AGF   Aarhus gymnastikforening    28  11  9   8   43  35  8   42  LDWLL
+5     FCN   Football Club Nordsjaelland 28  10  9   9   46  43  3   39  WDLWL
+6     RFC   Randers Football Club       28  10  6   12  39  33  6   36  LDLLW
 
 Name: Kvalifikationsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name             G   W   D   L   G+  G-  GD  P   Streak
+1     AAB   Aalborg Boldklub      28  10  9   9   37  38  -1  39  DDWLW
+2     S     Soenderjyske          28  11  5   12  39  39  0   38  LDWWW
+3     OB    Odense Boldklub       28  8   9   11  31  36  -5  33  LDLWL
+4     VB    Vejle Baoldklub       28  8   9   11  33  42  -9  33  WDWLD
+5     L     Lyngby Boldklub       28  6   7   15  30  53  -23 25  DWLLL
+6     ACH   Alliance Club Horsens 28  4   8   16  24  49  -25 20  WLLWD
 
 ------------------------------------------------------------
 
+Round: 29
 Name: mesterskabsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
+1     FCM   Football Club Midtjylland   29  17  5   7   50  28  22  56  DWLWL
+2     BIF   Broendby Idraetsforening    29  17  4   8   53  35  18  55  DWWLW
+3     FCK   Football Club Koebenhavn    29  14  7   8   54  48  6   49  DLWWD
+4     AGF   Aarhus gymnastikforening    29  12  9   8   44  35  9   45  DWLLW
+5     FCN   Football Club Nordsjaelland 29  10  10  9   48  45  3   40  DLWLD
+6     RFC   Randers Football Club       29  10  6   13  39  34  5   36  DLLWL
 
 Name: Kvalifikationsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name             G   W   D   L   G+  G-  GD  P   Streak
+1     AAB   Aalborg Boldklub      29  10  9   10  37  39  -2  39  DWLWL
+2     S     Soenderjyske          29  11  5   13  41  43  -2  38  DWWWL
+3     OB    Odense Boldklub       29  9   9   11  32  36  -4  36  DLWLW
+4     VB    Vejle Baoldklub       29  9   9   11  37  44  -7  36  DWLDW
+5     L     Lyngby Boldklub       29  6   7   16  33  57  -24 25  WLLLL
+6     ACH   Alliance Club Horsens 29  5   8   16  28  52  -24 23  LLWDW
 
 ------------------------------------------------------------
 
+Round: 30
 Name: mesterskabsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
+1     FCM   Football Club Midtjylland   30  17  6   7   51  29  22  57  WLWLD
+2     BIF   Broendby Idraetsforening    30  17  4   9   54  37  17  55  WWLWL
+3     FCK   Football Club Koebenhavn    30  15  7   8   56  49  7   52  LWWDW
+4     AGF   Aarhus gymnastikforening    30  13  9   8   47  36  11  48  WLLWW
+5     FCN   Football Club Nordsjaelland 30  10  10  10  49  48  1   40  LWLDL
+6     RFC   Randers Football Club       30  10  7   13  40  35  5   37  LLWLD
 
 Name: Kvalifikationsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name             G   W   D   L   G+  G-  GD  P   Streak
+1     S     Soenderjyske          30  12  5   13  43  43  0   41  WWWLW
+2     AAB   Aalborg Boldklub      30  10  10  10  38  40  -2  40  WLWLD
+3     OB    Odense Boldklub       30  9   10  11  34  38  -4  37  LWLWD
+4     VB    Vejle Baoldklub       30  9   10  11  39  46  -7  37  WLDWD
+5     L     Lyngby Boldklub       30  6   7   17  33  59  -26 25  LLLLL
+6     ACH   Alliance Club Horsens 30  5   9   16  29  53  -24 24  LWDWD
 
 ------------------------------------------------------------
 
+Round: 31
 Name: mesterskabsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
+1     BIF   Broendby Idraetsforening    31  18  4   9   56  38  18  58  WLWLW
+2     FCM   Football Club Midtjylland   31  17  6   8   53  33  20  57  LWLDL
+3     FCK   Football Club Koebenhavn    31  16  7   8   60  51  9   55  WWDWW
+4     AGF   Aarhus gymnastikforening    31  13  9   9   48  38  10  48  LLWWL
+5     FCN   Football Club Nordsjaelland 31  11  10  10  51  49  2   43  WLDLW
+6     RFC   Randers Football Club       31  10  7   14  41  37  4   37  LWLDL
 
 Name: Kvalifikationsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name             G   W   D   L   G+  G-  GD  P   Streak
+1     S     Soenderjyske          31  13  5   13  45  44  1   44  WWLWW
+2     AAB   Aalborg Boldklub      31  11  10  10  40  41  -1  43  LWLDW
+3     OB    Odense Boldklub       31  10  10  11  36  39  -3  40  WLWDW
+4     VB    Vejle Baoldklub       31  9   10  12  40  48  -8  37  LDWDL
+5     L     Lyngby Boldklub       31  6   7   18  34  61  -27 25  LLLLL
+6     ACH   Alliance Club Horsens 31  5   9   17  30  55  -25 24  WDWDL
 
 ------------------------------------------------------------
 
+Round: 32
 Name: mesterskabsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name                   G   W   D   L   G+  G-  GD  P   Streak
+1     BIF   Broendby Idraetsforening    32  19  4   9   58  38  20  61  LWLWW
+2     FCM   Football Club Midtjylland   32  18  6   8   57  33  24  60  WLDLW
+3     FCK   Football Club Koebenhavn    32  16  7   9   61  53  8   55  WDWWL
+4     AGF   Aarhus gymnastikforening    32  13  9   10  48  42  6   48  LWWLL
+5     FCN   Football Club Nordsjaelland 32  11  10  11  51  51  0   43  LDLWL
+6     RFC   Randers Football Club       32  11  7   14  43  38  5   40  WLDLW
 
 Name: Kvalifikationsspillet
-Pos   abr   Club Name G   W   D   L   G+  G-  GD  P   Streak
+Pos   abr   Club Name             G   W   D   L   G+  G-  GD  P   Streak
+1     AAB   Aalborg Boldklub      32  12  10  10  44  41  3   46  WLDWW
+2     S     Soenderjyske          32  13  5   14  45  48  -3  44  WLWWL
+3     OB    Odense Boldklub       32  11  10  11  40  39  1   43  LWDWW
+4     VB    Vejle Baoldklub       32  9   11  12  42  50  -8  38  DWDLD
+5     L     Lyngby Boldklub       32  6   8   18  36  63  -27 26  LLLLD
+6     ACH   Alliance Club Horsens 32  5   9   18  30  59  -29 24  DWDLL
 
