@@ -1,6 +1,22 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\udh12\\Desktop\\FootBall\\footballclubs\\footballclubs.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\udh12\\Desktop\\FootBall\\footballclubs\\footballclubs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\udh12\\Desktop\\FootBall\\footballclubs\\footballclubs.csproj",
+        "projectName": "footballclubs",
+        "projectPath": "C:\\Users\\udh12\\Desktop\\FootBall\\footballclubs\\footballclubs.csproj",
+        "packagesPath": "C:\\Users\\udh12\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\udh12\\Desktop\\FootBall\\footballclubs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\udh12\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
     "C:\\Users\\rasmu\\OneDrive\\Documents\\footballclubs\\footballclubs.csproj": {}
   },
   "projects": {
@@ -15,6 +31,7 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rasmu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 89fb2ecba2c4793ac4143f03eb8cea92fe58a82d
         ],
         "originalTargetFrameworks": [
           "net6.0"
