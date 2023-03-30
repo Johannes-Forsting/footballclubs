@@ -41,12 +41,7 @@ namespace app{
             
             
             
-            //Activate the method from league specificly for that one that takes the clubs-----------------
-            //in that league and split it into 2 list that is returned inside one list 
-            //that then is used to choose where the 2 list goes using index
-            //List<List<Club>> listOfListOfClubs = superliga.preliminaryFinish();
-            //upperSuperliga.clubs = listOfListOfClubs[0];
-            //lowerSuperliga.clubs = listOfListOfClubs[1];
+            
             //This need to be moved to a better plce-------------------------------------------------------
 
             System.Console.WriteLine("Testing----------------------------------------");
@@ -74,12 +69,21 @@ namespace app{
                     foreach(string file in files) {
                         List<Match> round = initiateRound(i);
                         runRound(round);
+                        
                         if(i <= 22) {
-                            string superligaResults = "-----------------------------------------------------------------------------\n\n" + superliga + "\n";
+                            string superligaResults = "-----------------------------------------------------------------------------\n\nRound: " + i + "\n" + superliga + "\n";
                             Console.WriteLine(superligaResults);
                             writer.WriteLine(superligaResults);
                         } else {
-                            string upperSuperligaResults = "------------------------------------------------------------\n\n" + upperSuperliga;
+                            if(i == 23) {
+                                //Activate the method from league specificly for that one that takes the clubs-----------------
+                                //in that league and split it into 2 list that is returned inside one list 
+                                //that then is used to choose where the 2 list goes using index
+                                List<List<Club>> listOfListOfClubs = superliga.preliminaryFinish();
+                                upperSuperliga.clubs = listOfListOfClubs[0];
+                                lowerSuperliga.clubs = listOfListOfClubs[1];
+                            }
+                            string upperSuperligaResults = "------------------------------------------------------------\n\nRound: " + i + "\n" + upperSuperliga;
                             string lowerSuperligaResults = "\n" + lowerSuperliga + "\n";
                             Console.WriteLine(upperSuperligaResults);
                             writer.WriteLine(upperSuperligaResults);
@@ -320,8 +324,6 @@ namespace app{
         }
 
     }
-
-
     
 }
 
