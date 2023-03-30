@@ -1,4 +1,5 @@
 ﻿using System.IO;
+using System.Timers;
 
 
 namespace app{
@@ -28,6 +29,7 @@ namespace app{
         static League? superliga;
         static League? upperSuperliga;
         static League? lowerSuperliga;
+        static string filepath = "Files/results.txt";
         static void Main(){
             initiateClubs();
             //initiateTestClubs("R22SortingTest");
@@ -50,15 +52,48 @@ namespace app{
             System.Console.WriteLine("Testing----------------------------------------");
 
             System.Console.WriteLine("------------------------------------------------");
-            System.Console.WriteLine(superliga);
-            System.Console.WriteLine(upperSuperliga);
-            System.Console.WriteLine(lowerSuperliga);
+            //System.Console.WriteLine(superliga);
+            //System.Console.WriteLine(upperSuperliga);
+            //System.Console.WriteLine(lowerSuperliga);
             //List<Match> round = initiateRound("1");
+            runRounds();
+            //System.Console.WriteLine(superliga);
+            
+            //
 
             //runRound(round);
 
         }
 
+        static void runRounds() {
+            try {
+                string[] files = Directory.GetFiles("Files/","round*");
+                int i = 1;
+                using (StreamWriter writer = new StreamWriter(filepath))
+                {
+                    foreach(string file in files) {
+                        List<Match> round = initiateRound(i);
+                        runRound(round);
+                        if(i <= 22) {
+                            string superligaResults = "-----------------------------------------------------------------------------\n\n" + superliga + "\n";
+                            Console.WriteLine(superligaResults);
+                            writer.WriteLine(superligaResults);
+                        } else {
+                            string upperSuperligaResults = "------------------------------------------------------------\n\n" + upperSuperliga;
+                            string lowerSuperligaResults = "\n" + lowerSuperliga + "\n";
+                            Console.WriteLine(upperSuperligaResults);
+                            writer.WriteLine(upperSuperligaResults);
+                            Console.WriteLine(lowerSuperligaResults);
+                            writer.WriteLine(lowerSuperligaResults);
+                        }
+                        i++;
+                        Thread.Sleep(1000);
+                    }
+                }
+            } catch (Exception e) {
+                Console.WriteLine("Process failed: " + e.ToString());
+            }
+        }
 
         static void runRound(List<Match> matches){
             foreach(Match match in matches){
@@ -66,9 +101,11 @@ namespace app{
                 string ATAbbreviation = match.awayTeam.abbreviation;
                 Club homeClub = findClub(HTAbbreviation);
                 Club awayClub = findClub(ATAbbreviation);
+                homeClub.gamesPlayed += 1;
                 homeClub.goalsFor += match.homeClubGoals;
                 homeClub.goalsAgainst += match.awayClubGoals;
                 homeClub.goalDifference = homeClub.goalsFor - homeClub.goalsAgainst;
+                awayClub.gamesPlayed += 1;
                 awayClub.goalsFor += match.awayClubGoals;
                 awayClub.goalsAgainst += match.homeClubGoals;
                 awayClub.goalDifference = awayClub.goalsFor - awayClub.goalsAgainst;
@@ -98,7 +135,7 @@ namespace app{
             }
         }
 
-        static List<Match> initiateRound(String round){
+        static List<Match> initiateRound(int round){
             List<Match> matches = new List<Match>();
             StreamReader reader = new StreamReader("Files/round-" + round + ".csv");
             while (!reader.EndOfStream)
