@@ -26,4 +26,7 @@ Mesterskabsspillet indeholder følgende pladser:
 kvalifikationsspillet indeholder følgende pladser:
 - 2 nedrykningspladser
 
-De sidste 10 runder bliver derefter kørt på samme måde da vi referere til Club objekterne. Derfor har den liga de er i faktisk ingen indflydelse på denne del.
+De sidste 10 runder bliver derefter kørt på samme måde da vi referere til Club objekterne. 
+Derfor har den liga de er i faktisk ingen indflydelse på denne del.
+
+De sidste 10 runder bliver kørt sådan at det kun er de 2 "mindre" ligaer der bliver vist. Til sidst bliver det hele gemt i "result.txt" som man kan tilgå og se ligaens stilling for hver runde.
