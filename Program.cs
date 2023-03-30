@@ -195,10 +195,9 @@ namespace app{
                     clubs.Add(tempClub);
                 }
                 reader.Close();
-            }catch(Exception e){
+            }catch(FileNotFoundException e){
                 System.Console.WriteLine("Club File not found");
             }
-            
         }
 
 
