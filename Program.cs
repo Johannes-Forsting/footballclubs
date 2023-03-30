@@ -36,28 +36,9 @@ namespace app{
             //initiateTestClubs("R22SortingTestEqualPoints");
             initiateLeague();
             
-            
-            
-            
-            
-            
-            
-            //This need to be moved to a better plce-------------------------------------------------------
-
-            System.Console.WriteLine("Testing----------------------------------------");
-
-            System.Console.WriteLine("------------------------------------------------");
-            //System.Console.WriteLine(superliga);
-            //System.Console.WriteLine(upperSuperliga);
-            //System.Console.WriteLine(lowerSuperliga);
-            //List<Match> round = initiateRound("1");
+     
             runRounds();
-            //System.Console.WriteLine(superliga);
-            
-            //
-
-            //runRound(round);
-
+           
         }
 
         static void runRounds() {
@@ -69,10 +50,10 @@ namespace app{
                     foreach(string file in files) {
                         List<Match> round = initiateRound(i);
                         runRound(round);
-                        
+                        Console.WriteLine("-----------------------------------------------------------------------------\n\nRound: " + i +"\n");
                         if(i <= 22) {
                             string superligaResults = "-----------------------------------------------------------------------------\n\nRound: " + i + "\n" + superliga + "\n";
-                            Console.WriteLine(superligaResults);
+                        
                             writer.WriteLine(superligaResults);
                         } else {
                             if(i == 23) {
@@ -85,9 +66,9 @@ namespace app{
                             }
                             string upperSuperligaResults = "------------------------------------------------------------\n\nRound: " + i + "\n" + upperSuperliga;
                             string lowerSuperligaResults = "\n" + lowerSuperliga + "\n";
-                            Console.WriteLine(upperSuperligaResults);
+                            //Console.WriteLine(upperSuperligaResults);
                             writer.WriteLine(upperSuperligaResults);
-                            Console.WriteLine(lowerSuperligaResults);
+                            //Console.WriteLine(lowerSuperligaResults);
                             writer.WriteLine(lowerSuperligaResults);
                         }
                         i++;

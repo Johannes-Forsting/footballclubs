@@ -101,29 +101,63 @@ public class League{
     
     public override String ToString(){
 
-        String returnString = "Name: " + this.name + "\n";
+        String returnString = "";
         //Adding the header for the table so it looks clean
-        
-        
-        
-
+        System.Console.WriteLine("Name: " + this.name + "\n");
+        returnString += "Name: " + this.name + "\n";
         returnString += string.Format(formatter(),
                             "Pos", "abr", "Club Name", "G", "W", "D", "L", "G+", "G-", "GD", "P", "Streak");
+
+        
+
+        System.Console.WriteLine(string.Format(formatter(),
+                            "Pos", "abr", "Club Name", "G", "W", "D", "L", "G+", "G-", "GD", "P", "Streak"));
 
         //Sorting the teams by points etc. then adding them to the tostring in the same format as the header.
         sortTeams();
         if(clubs.Count != null){
+            int i = 1;
             foreach (Club club in clubs){
-            String pos = club.position == 100? "-" : club.position.ToString();
-            returnString += "\n"+string.Format(formatter(), 
+                changecolor(i);
+                String pos = club.position == 100? "-" : club.position.ToString();
+                System.Console.WriteLine(string.Format(formatter(), 
+                         pos, club.abbreviation, club.name, club.gamesPlayed, club.gamesWon, club.gamesDrawn, club.gamesLost, club.goalsFor, 
+                         club.goalsAgainst, club.goalDifference, club.points, club.streak));
+                returnString += "\n" + string.Format(formatter(), 
                          pos, club.abbreviation, club.name, club.gamesPlayed, club.gamesWon, club.gamesDrawn, club.gamesLost, club.goalsFor, 
                          club.goalsAgainst, club.goalDifference, club.points, club.streak);
+                i++;            
+                Console.ForegroundColor = ConsoleColor.White;
             }
         }
         
-
-        
         return returnString;
+    }
+
+    private void changecolor(int index){
+        if(leagueType == LeagueType.PRESPLITUP){
+            if(index <= 6){
+                Console.ForegroundColor = ConsoleColor.DarkGreen;
+            }else{
+                Console.ForegroundColor = ConsoleColor.Red;
+            }
+        }else{
+            if(this.name == "mesterskabsspillet"){
+                if(index <= this.UCLPositions){
+                    Console.ForegroundColor = ConsoleColor.DarkGreen;
+                }
+                else if(index <= this.UELPositions + this.UCLPositions){
+                    Console.ForegroundColor = ConsoleColor.DarkYellow;
+                }
+                else if(index <= this.UECLPositions + this.UELPositions + this.UCLPositions){
+                    Console.ForegroundColor = ConsoleColor.DarkCyan;
+                }
+            }else{
+                if(index >=5){
+                    Console.ForegroundColor = ConsoleColor.Red;
+                }
+            }
+        }
     }
 
 }
